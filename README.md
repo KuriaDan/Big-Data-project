@@ -27,3 +27,14 @@ With this in mind, I explored various text summarization techniques that would s
 **Packages:** NLTK, Spacy, Flask, Gensim, sumy, BeautifulSoup
 
 **Web App Requirements:** ```pip install -r requirements.txt```
+
+## Summarizers
+* **NLTK Summarizer** - 5 step Implementation.
+
+    * Creating a word frequency table - create a dictionary for word frequency from the text without stopwords
+    * Tokenization - splitting the text into a set of sentences
+    * Scoring sentences - Using Term Frequency, we score a sentence by it's words, adding the frequency of every non-stop word in a sentence taking into account sentence length
+    * Finding the threshold - setting the average score of the sentences as a threshold
+    * Generate the summary -Only show sentences whose sentence score is more than the threshold
+
+* **Spacy Summarizer** - Implementation is similar to NLTK
