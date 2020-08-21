@@ -23,5 +23,7 @@ With this in mind, I explored various text summarization techniques that would s
 **Youtube tutorial:** https://www.youtube.com/watch?v=xvLQdP549NA
 
 **Python Version:** 3.7
+
 **Packages:** NLTK, Spacy, Flask, Gensim, sumy, BeautifulSoup
+
 **Web App Requirements:** ```pip install -r requirements.txt```
