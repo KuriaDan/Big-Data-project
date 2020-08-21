@@ -1,5 +1,6 @@
 # Kuria's Data Science Portfolio
 # [Project 1: BigMart Outlet Sales Prediction](https://github.com/KuriaDan/Data-Science-Projects/tree/master/Big_Mart_Sales_Prediction)
+***
 
 * Created a model that estimates sales for an outlet of a big chain based on a datathon hosted by [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/#ProblemStatement).
 * Did EDA and data cleaning.
@@ -9,3 +10,8 @@
 * Averaged the models to get the best score.
   
 ![alt text](https://github.com/KuriaDan/Data-Science-Projects/blob/master/Big_Mart_Sales_Prediction/images/ds_p.PNG 'model architecture')
+
+***
+***
+# [Project 2. Text Summarizer Flask Web App](https://github.com/KuriaDan/Data-Science-Projects/tree/master/Text_summarizer)
+***
