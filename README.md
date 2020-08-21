@@ -1,6 +1,6 @@
 # Kuria's Data Science Portfolio
 # [Project 1: BigMart Outlet Sales Prediction](https://github.com/KuriaDan/Data-Science-Projects/tree/master/Big_Mart_Sales_Prediction)
-***
+
 
 * Created a model that estimates sales for an outlet of a big chain based on a datathon hosted by [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/#ProblemStatement).
 * Did EDA and data cleaning.
@@ -11,7 +11,17 @@
   
 ![alt text](https://github.com/KuriaDan/Data-Science-Projects/blob/master/Big_Mart_Sales_Prediction/images/ds_p.PNG 'model architecture')
 
-***
+
 ***
 # [Project 2. Text Summarizer Flask Web App](https://github.com/KuriaDan/Data-Science-Projects/tree/master/Text_summarizer)
-***
+
+With the death of jounalism and the incentivization of clickbait by the prevailing ad model, it's hard to navigate poorly written articles to get the core message of them.
+
+With this in mind, I explored various text summarization techniques that would summarize articles that tickle my fancy.
+
+## Code and Resources used
+**Youtube tutorial:** https://www.youtube.com/watch?v=xvLQdP549NA
+
+**Python Version:** 3.7
+**Packages:** NLTK, Spacy, Flask, Gensim, sumy, BeautifulSoup
+**Web App Requirements:** ```pip install -r requirements.txt```
